@@ -9,7 +9,7 @@
   </head>
 
 
-<form class="" action="index.html" method="post">
+<form class="" action="index.php" method="post">
 <h2>Liberty</h2>
 </form>
 <div class="lll">
